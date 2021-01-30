@@ -14,6 +14,4 @@ Lecture Notes for Learing Golang
 </p>
 <br />
 
-## :fire: 1. GetMemoryµÄ»ù±¾ÓÃ·¨
-
-```C++
+## :fire: 1. GetMemoryçš„åŸºæœ¬ç”¨æ³•
